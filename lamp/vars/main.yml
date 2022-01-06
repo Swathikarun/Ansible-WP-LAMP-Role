@@ -1,0 +1,10 @@
+---
+mariadb_root_password: "mysqlroot@123"
+app_db_name: "wordpress"
+app_db_user: "wordpress"
+app_db_password: "wordpress"
+httpd_port: 80
+httpd_user: "apache"
+httpd_group: "apache"
+domain_name: "devopsstudy.tech"
+wp_url: "https://wordpress.org/latest.tar.gz"
